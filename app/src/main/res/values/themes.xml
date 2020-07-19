@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/starblue</item>
+        <item name="colorSecondary">@color/soda</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
+
+        <item name="toolbarStyle">@style/Widget.Demo.Toolbar</item>
+    </style>
+
+</resources>
