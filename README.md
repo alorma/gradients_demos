@@ -28,5 +28,6 @@ Gradients that references attributes not work as expected:
         android:startColor="@android:color/transparent" />
 ```
 
-
-<img width="500" alt="Gradients demo" src="https://user-images.githubusercontent.com/887462/87879482-5e036600-c9eb-11ea-9d58-674d1695b6cb.png">
+API 29 | API 22 (21)
+---|---
+<img width="280" src="https://user-images.githubusercontent.com/887462/87879573-05809880-c9ec-11ea-87cf-59c23e790827.png" /> | <img width="280" src="https://user-images.githubusercontent.com/887462/87879592-2e089280-c9ec-11ea-8ea6-2731cb695981.png" />
